@@ -1,1 +1,1 @@
-# Singleton
+# Learn-Singleton
